@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Liv Andre Centeno.</p>
+<p align="left">My name is Liv Andre Centeno. I am a passionate backend developer with a knack of building APIs. I love solving problems and building APIs that make systems work seamlessly. In addition to my technical skills, I enjoy exploring how technology can be used to solve real world problems and make life easier for people. I’m always eager to learn new skills and take on challenges that push me to grow.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding Since 2021<br><br>📚 Improving skills<br><br>🎯 Goals: To become a 6 Digit Salary Developer<br><br>🎲 Fun fact: I love Playing Basketball.</p>
+<p align="left">✨ Coding Since 2021<br><br>📚 Improving skills<br><br>🎯 Goals: To become a 6 Digit Salary Backend Developer<br><br>🎲 Fun fact: I love Playing Basketball.</p>
 
 ###
 
